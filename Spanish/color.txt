@@ -1,0 +1,19 @@
+1. Black -> Negro  
+2. White -> Blanco
+3. Red -> Rojo
+4. Yellow -> Amarillo
+5. Blue -> Azul
+6. Dark Blue -> Azul oscuro
+7. Light Blue -> Azul claro
+8. Purple -> Morado
+9. Voilet -> Violeta
+10. Silver -> De plata
+11. Gold -> Dorado
+12. Orange -> Anaranjado
+13. Maroon -> Granate
+14. Brown -> Cafe
+15. What color is it -> De que color es
+16. What color ara they -> De que color son
+17. Pink -> Rosa
+18. Green -> Verde
+19. colors -> los colores

@@ -1,0 +1,26 @@
+Coding is cool. Format your code is better !
+
+You can format variables’ name using 3 big formats:
+- camelCase : The words are not separated, everything is in lower case except the first letter of each word (except the 1st word).
+- PascalCase: The words are not separated, everything is in lower case except the first letter of each word.
+- snake_case: The words are separated by ‘_’, everything is in lower case.
+
+Formatting a large number of variables is a tedious task. Let's automate it!
+Input
+Line 1 : A string for the variable’s name. Made of alphanumeric characters and space to separate words.
+Line 2 : A string for the format you need to use: camelCase, PascalCase or snake_case
+Output
+Line 1 : The name of the variable correctly formatted
+Constraints
+1 <= name’s length <= 100
+Example
+Input
+
+MY Super variABLE
+camelCase
+
+Output
+
+mySuperVariable
+
+

@@ -1,0 +1,10 @@
+ I ->> yo        
+ We ->> nosotros
+ You ->> tu
+ You plural ->> vosotros
+ He ->> el
+ They ->> ellos
+ She ->> ella
+ They ->> ellas
+ Respectfull ->> usted
+ plural ->> ustedes

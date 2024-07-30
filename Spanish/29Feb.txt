@@ -1,0 +1,32 @@
+My -> Mi
+Where -> Donde
+Need -> necesito
+reservation -> reserva
+for -> para
+hotel -> hotel
+in -> en
+suitcase -> maleta
+here -> aquí
+bus -> autobús
+train -> tren
+have -> tengo
+is -> esta (somentimes with it is)
+passport -> pasaporte
+money -> dinero
+ticket -> boleto
+your -> tu
+airport -> aeropuerto
+closed -> cerrado
+open -> abierto
+to -> a
+phone -> teléfono
+supermarket -> supermercado
+bathroom -> baño
+bank -> banco
+street -> calle
+museum -> museo
+taxi -> taxi
+hospital -> hospital
+restaurant -> restaurante
+people -> gente
+

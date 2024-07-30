@@ -1,0 +1,20 @@
+Q-2   Write a solution that takes an input string and returns it with the correct case for character titles in the book.
+-The words and, the, of and in should be lowercase.
+-All other words should have the first character as uppercase and the rest lowercase.
+-Punctuation and spaces must remain in their original positions.
+-Hyphenated words are considered separate words.
+Input
+Title that you need to correct.
+Output
+Corrected title.
+Constraints
+0 < TITLE LENGTH < 40
+Example
+Input
+
+LORD-Of-The WINGs
+
+Output
+
+Lord-of-the Wings
+

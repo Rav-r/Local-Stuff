@@ -1,0 +1,56 @@
+Q-6 A male ostrich weighs 20% more than a female one.
+Given the gender of an ostrich, and its weight, display the weight of its counterpart.
+If the gender is unknown, you should display "UNKNOWN".
+Input
+A single letter : 'F' for Female, 'M' for Male, any other char should be treated as unknown.
+An integer W representing the ostrich weight.
+Output
+The weight of the opposite gender ostrich rounded down.
+Constraints
+0 <= W < 200
+Example
+Input
+
+F
+100
+
+Output
+
+120
+
+Solution - >
+import java.util.*;
+import java.io.*;
+import java.math.*;
+
+/**
+ * Auto-generated code below aims at helping you parse
+ * the standard input according to the problem statement.
+ **/
+class Solution {
+
+    public static void main(String args[]) {
+        Scanner in = new Scanner(System.in);
+        String G = in.next();
+        int W = in.nextInt();
+        int result = 0;
+
+        // Write an answer using System.out.println()
+
+        if(G.equals("F")){
+            result = W+ W/5;
+            System.out.print(result);
+
+        }
+        else if ( G.equals("M")){
+            result = W - W/6;
+            System.out.print(result);
+        }
+        else {
+            System.out.print("UNKNOWN");
+        }
+        // To debug: System.err.println("Debug messages...");
+
+
+    }
+}

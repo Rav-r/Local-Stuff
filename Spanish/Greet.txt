@@ -1,0 +1,27 @@
+Good Morning   ->   Buenos días
+Good Afternoon   ->   Buenas tardes
+Good Evening   ->   Buenas noches
+Hello   ->   Hola
+How are you?   ->   ¿Cómo estás?
+How are You(Respectful)   ->   ¿Cómo está usted?
+I am fine   ->   Estoy bien
+Thank you   ->   Gracias
+Please   ->   Por favor
+Sorry   ->   Lo siento
+Excuse me   ->   Con permiso
+Goodbye   ->  Adiós 
+See you later   ->   Hasta luego
+See you Tomorrow   ->   Hasta mañana
+Yes   ->   Sí
+No   ->   No 
+I don't know   ->   No sé
+I am Delighted to meet you  ->   Encantado de conocerte
+What is your name  ->   ¿Cómo te llamas?
+My name is   ->   Me llamo
+Where are you from?   ->   ¿De dónde eres?
+I am from   ->   Soy De 
+How old are you?   ->   ¿Cuántos años tienes?
+You are welcome   ->   De nada
+What time is it?   ->   ¿Qué hora es?
+Thank you very much  ->   Muchas Gracias
+

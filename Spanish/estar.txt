@@ -1,0 +1,10 @@
+Usage:   how you feel , where you are
+
+I am -> estoy
+we are -> estamos
+
+You -> estas 
+You ares -> estais
+
+He is -> esta 
+They are -> estan 

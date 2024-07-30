@@ -1,0 +1,15 @@
+Q-4 Your program must output the number of words having neither two successive vowels nor two successive consonants.
+
+Be careful of the case!
+
+INPUT:
+Line 1: A string S.
+
+OUTPUT:
+One integer for the number of striped words.
+
+EXAMPLE:
+Input
+Coding Game
+Output
+1

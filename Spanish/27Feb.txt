@@ -1,0 +1,12 @@
+apple -> manzana
+bread -> pan
+drink -> bebe
+eat -> come
+milk -> leche
+water -> agua
+it is her -> es ella
+man -> hombre
+women -> mujer
+boy -> nino
+girl -> nina
+

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="n.css" type="text/css">
+</head>
+<body>
+    <div class="nav">
+        <ul>
+            <li id="img">
+                <img src="konl.ico" alt="No image found"></img>
+            </li>
+            <li> Home </li>
+            <li> About </li>
+            <li> Contacts </li>
+            <li>
+                <input type="text" id="search-bar">
+                <button onclick="search()">Search</button>
+                <script>
+                    function search() {
+                      var query = document.getElementById("search-bar").value;
+                      // Replace with your search logic here
+                      console.log(query);
+                    }
+                  </script>
+            </li>
+        </ul>
+    </div>
+    <div class="i">
+        <h2>Hello</h2>
+    </div>
+
+</body>
+</html>

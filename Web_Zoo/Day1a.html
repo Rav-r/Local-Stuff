@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <table>
+            <tr>
+                <td>
+                    <label for="n">Name</label>
+                </td>
+                <td>
+                    <input type="text" id="n" required>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="a">Address</label>
+                </td>
+                <td>
+                    <input type="text" id="a">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="z">Zip Code</label>
+                </td>
+                <td>
+                    <input type="text" id="z" required>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="c">Country</label></td>
+                <td>
+                    <select name="Country" id="c">
+                        <option value="ps">Please Select</option>
+                        <option value="in">India</option>
+                        <option value="ru">Russia</option>
+                        <option value="am">America</option>
+                        <option value="nz">New Zealand</option>
+                        <option value="sp">Spain</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="g">Gender</label>
+                </td>
+                <td>
+                    <label for="m">Male</label>
+                    <input type="radio" name="Gender" id="m">
+                    <label for="f">Female</label>
+                    <input type="radio" name="Gender" id="f">
+                    
+                </td>
+            </tr>
+            <tr>
+                <td>Preferences</td>
+                <td>
+                    <label for="r">Red</label>
+                    <input type="checkbox" name="red" id="r">
+                    <label for="g">Green</label>
+                    <input type="checkbox" name="green" id="g">
+                    <label for="b">Blue</label>
+                    <input type="checkbox" name="blue" id="b">
+                </td>
+            </tr>
+            <tr>
+                <td><label for="p">Phone</label></td>
+                <td><input type="number" id="p" required> </td>
+            </tr>
+            <tr>
+                <td><label for="e">Email</label></td>
+                <td><input type="email" id="e" required></td>
+            </tr>
+            <tr>
+                <td><label for="ps">Password(6-8)</label></td>
+                <td><input type="password" id="ps" required></td>
+            </tr>
+            <tr>
+                <td><label for="v">Verify Password</label></td>
+                <td><input type="password" id="v" required></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button type="submit">SEND</button>  <button type="reset">CLEAR</button></td>
+            </tr>
+        </table>
+        
+    </form>
+</body>
+</html>

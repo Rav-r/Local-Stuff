@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #clock{
+            background-color: black;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 200px;
+            width: 200px;
+            margin: 400px auto;
+        
+        }
+        #ck{
+            font-size: 1.5rem;
+
+        }
+    </style>
+</head>
+<body>
+    <div id="clock">
+        <h1 id="ck"></h1>
+
+    </div>
+    <script>
+        setInterval(myclock,1000)
+        function myclock(){
+            var dat= new Date()
+            var hours = dat.getHours();
+            var min = dat.getMinutes();
+            var sec = dat.getSeconds();
+            hours=hours<10?"0"+hours:hours
+            min=min<10?"0"+min:min
+            sec=sec<10?"0"+sec:sec
+            var tim = hours+" : "+min+" : "+sec
+            document.getElementById('ck').innerHTML=tim
+        }
+
+    </script>
+</body>
+</html>

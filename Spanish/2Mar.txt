@@ -1,0 +1,19 @@
+Burger -> hamburguesa
+Fish -> pescado
+Want, wanna -> quiero
+Pay -> pagar
+Check , bill -> cuenta
+Cheese -> queso
+Sandwich -> sándwich
+Salad -> ensalada
+Meat -> carne
+With -> con
+Without -> sin
+Orange juice -> jugo de naranja
+Sugar -> azúcar
+Salt -> sal
+Or -> o
+Glass -> vaso
+Cup -> taza
+Need -> necesito
+

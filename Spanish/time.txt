@@ -1,0 +1,17 @@
+                                                                What Time is It ?
+                                                                (De Que Hora es?)
+
+It's One '0 clock  -> Es la una
+It's Two 'o clock  -> Son las dos(Rest time same)        
+
+It's 3:16          -> Son las tres y dieciseis
+
+It's 3:15          -> Son las tres y cuarto(Quarter)
+
+It's 3:30          -> Son las tres Y medio
+
+It's 9'0 clock in the morning  -> son las nueve de la manana
+
+At what time is the meeting    -> A que hora es la reunion
+
+
